@@ -1,0 +1,20 @@
+{
+  "max_weight": 5,
+  "items": [
+    {
+      "Item ID": 3,
+      "Weight": 4,
+      "Price": 5
+    },
+    {
+      "Item ID": 2,
+      "Weight": 1,
+      "Price": 3
+    },
+    {
+      "Item ID": 4,
+      "Weight": 2,
+      "Price": 5
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "max_weight": 5,
+  "items": [
+    {
+      "Item ID": 1,
+      "Weight": 1,
+      "Price": 1
+    },
+    {
+      "Item ID": 2,
+      "Weight": 2,
+      "Price": 3
+    },
+    {
+      "Item ID": 3,
+      "Weight": 3,
+      "Price": 5
+    },
+    {
+      "Item ID": 3,
+      "Weight": 3,
+      "Price": 5
+    },
+    {
+      "Item ID": 3,
+      "Weight": 3,
+      "Price": 5
+    },
+    {
+      "Item ID": 3,
+      "Weight": 3,
+      "Price": 5
+    },
+    {
+      "Item ID": 3,
+      "Weight": 3,
+      "Price": 5
+    },
+    {
+      "Item ID": 3,
+      "Weight": 3,
+      "Price": 5
+    },
+    {
+      "Item ID": 3,
+      "Weight": 3,
+      "Price": 5
+    },
+    {
+      "Item ID": 3,
+      "Weight": 3,
+      "Price": 5
+    },
+    {
+      "Item ID": 3,
+      "Weight": 3,
+      "Price": 5
+    },
+    {
+      "Item ID": 3,
+      "Weight": 3,
+      "Price": 5
+    },
+    {
+      "Item ID": 3,
+      "Weight": 3,
+      "Price": 5
+    },
+    {
+      "Item ID": 3,
+      "Weight": 3,
+      "Price": 5
+    },
+    {
+      "Item ID": 3,
+      "Weight": 3,
+      "Price": 5
+    },
+    {
+      "Item ID": 3,
+      "Weight": 3,
+      "Price": 5
+    },
+    {
+      "Item ID": 3,
+      "Weight": 3,
+      "Price": 5
+    },
+    {
+      "Item ID": 3,
+      "Weight": 3,
+      "Price": 5
+    },
+    {
+      "Item ID": 3,
+      "Weight": 3,
+      "Price": 5
+    },
+    {
+      "Item ID": 3,
+      "Weight": 3,
+      "Price": 5
+    },
+    {
+      "Item ID": 3,
+      "Weight": 3,
+      "Price": 5
+    }
+  ]
+}

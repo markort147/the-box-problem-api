@@ -1,0 +1,35 @@
+{
+  "max_weight": 80,
+  "items": [
+    {
+      "Item ID": 1,
+      "Weight": 53.38,
+      "Price": 45
+    },
+    {
+      "Item ID": 2,
+      "Weight": 88.62,
+      "Price": 98
+    },
+    {
+      "Item ID": 3,
+      "Weight": 78.48,
+      "Price": 3
+    },
+    {
+      "Item ID": 4,
+      "Weight": 72.30,
+      "Price": 76
+    },
+    {
+      "Item ID": 5,
+      "Weight": 30.18,
+      "Price": 9
+    },
+    {
+      "Item ID": 6,
+      "Weight": 46.34,
+      "Price": 48
+    }
+  ]
+}

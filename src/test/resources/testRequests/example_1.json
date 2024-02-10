@@ -1,0 +1,50 @@
+{
+  "max_weight": 75,
+  "items": [
+    {
+      "Item ID": 1,
+      "Weight": 85.31,
+      "Price": 29
+    },
+    {
+      "Item ID": 2,
+      "Weight": 14.55,
+      "Price": 74
+    },
+    {
+      "Item ID": 3,
+      "Weight": 3.98,
+      "Price": 16
+    },
+    {
+      "Item ID": 4,
+      "Weight": 26.24,
+      "Price": 55
+    },
+    {
+      "Item ID": 5,
+      "Weight": 63.69,
+      "Price": 52
+    },
+    {
+      "Item ID": 6,
+      "Weight": 76.25,
+      "Price": 75
+    },
+    {
+      "Item ID": 7,
+      "Weight": 60.02,
+      "Price": 74
+    },
+    {
+      "Item ID": 8,
+      "Weight": 93.18,
+      "Price": 35
+    },
+    {
+      "Item ID": 9,
+      "Weight": 89.95,
+      "Price": 78
+    }
+  ]
+}
