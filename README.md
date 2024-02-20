@@ -6,6 +6,34 @@ This project implements a Spring Boot microservice to determine the optimal comb
 
 The service exposes a REST API that accepts requests with a set of items and a maximum weight limit. It returns the set of items that maximizes total value without exceeding the weight limit
 
+## Getting Started
+
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+
+### Cloning the Repository
+
+To clone the project, run the following command:
+
+  ```bash
+  git clone https://github.com/markort147/theBoxProblem.git
+  ```
+
+### Starting the Application
+
+To start the application, navigate to the root directory of the project and run the following command:
+
+On Linux:
+```bash
+./mvnw spring-boot:run
+```
+
+On Windows
+```dtd
+mvnw.cmd spring-boot:run
+```
+
+This will start the Spring Boot application using Maven. The application will be accessible at http://localhost:8080 by default.
+
 ## Application Configuration
 
 The service can be configured through the `application.properties` file. The following parameters can be adjusted:
