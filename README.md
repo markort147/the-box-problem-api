@@ -18,7 +18,7 @@ To clone the project, run the following command:
   git clone https://github.com/markort147/theBoxProblem.git
   ```
 
-### Starting the Application
+### Starting the Application using Maven
 
 To start the application, navigate to the root directory of the project and run the following command:
 
@@ -33,6 +33,20 @@ mvnw.cmd spring-boot:run
 ```
 
 This will start the Spring Boot application using Maven. The application will be accessible at http://localhost:8080 by default.
+
+### Starting the Application using Docker
+
+Alternatively, you can run the application by building a Docker image.
+
+For building the image, launch the following command:
+```bash
+docker build -t theboxproblem .
+```
+
+For running the application, launch the followign command:
+```bash
+docker run -p 8080:8080 theboxproblem
+```
 
 ## Application Configuration
 
